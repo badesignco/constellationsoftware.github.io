@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constellation Software LLC</title>
+    <description>Constellation Software is an iOS and web development firm located in Akron Ohio.
+</description>
+    <link>http://constellation.software/</link>
+    <atom:link href="http://constellation.software/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Nov 2015 15:13:00 -0500</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2015 15:13:00 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Simple and Focused</title>
+        <description>&lt;p&gt;One of the things I am always on the lookout for is conceptual symmetry. I love to find an aspect of a particular process that mirrors another, seemingly dissimilar systems. Finding these mirrors can help untangle messy challenges in our personal or professional lives. So when I found myself struggling to define in words just what Constellation was about, I looked for similarities in the process of app development itself.&lt;/p&gt;
+
+&lt;p&gt;You see, I’m pretty new to iOS development. While I’d taken some online Objective-C courses, and I’ve developed using Ruby &amp;amp; Javascript for years, Apple’s platform remained intimidatingly opaque. Until Swift, that is. Suddently there was a focal point, a simple way to move forward with a lot of other beginners. And I loved that.&lt;/p&gt;
+
+&lt;p&gt;The excitement of learning a new language and process for a rapidly growing and extremely dynamic platform is hard to express, but the downside is the scale of what there is to master. There are so many tools to learn, so many documents to read, so many libraries to draw on, its hard to imagine ever been truly competent, let alone an expert.&lt;/p&gt;
+
+&lt;p&gt;The challenges are as big as the opportunities.&lt;/p&gt;
+
+&lt;p&gt;And I know for a fact: I’m not the smartest or best programmer out there, not by a long shot. Actually I’d say I’m pretty slow and stodgy. I like elegant code but I like understandable code better. So how can I make a mark?&lt;/p&gt;
+
+&lt;p&gt;Well, I believe its right in the name. A Constellation of apps. A collection of small, very focused and deeply considered tools. Maintained and grown over time, with modest but fair revenue models.&lt;/p&gt;
+
+&lt;p&gt;I’ve used so many apps that clearly suffered from kitchen sink design. Apps that seemed so promising up front but almost instantly deflected me away from use with excessive complexity and unopinionated design.&lt;/p&gt;
+
+&lt;p&gt;I believe users are hungry for - and willing to support - the opposite of this style of development. The only caveat is sustainable success will likely require keeping a number of balls in the air at one time.&lt;/p&gt;
+
+&lt;p&gt;How many? I can’t say. Maybe half a dozen or more in active development at any one time? From what I’ve learned reading and listening to podcasts this approach seems relatively safe - and the one that offers the best chance to work on an assortment of real, &lt;em&gt;solvable&lt;/em&gt; problems and do &lt;em&gt;good&lt;/em&gt; work at the same time.&lt;/p&gt;
+
+&lt;p&gt;I’m excited to see where this goes.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Sep 2015 00:00:00 -0400</pubDate>
+        <link>http://constellation.software/philosophy/software/business/2015/09/24/simple-and-focused.html</link>
+        <guid isPermaLink="true">http://constellation.software/philosophy/software/business/2015/09/24/simple-and-focused.html</guid>
+        
+        
+        <category>philosophy</category>
+        
+        <category>software</category>
+        
+        <category>business</category>
+        
+      </item>
+    
+      <item>
+        <title>Slightly Balanced</title>
+        <description>&lt;p&gt;So this is it, a new blog on a new domain for a new business with some new projects underway. A lot can happen in a matter of months, and for me the past year has been a remarkably steady march of positive change. Which is a good thing considering how dramatic and traumatic the 18 months or so prior had been.&lt;/p&gt;
+
+&lt;p&gt;But really, months? Who am I kidding. My life had been a chaotic spiral for years before slamming into a wall last November. If you know me, or knew me then, you’ve got some idea. The mania and mood swings, the days of ferocious energy interspersed with weeks of listless withdrawal.&lt;/p&gt;
+
+&lt;p&gt;The cause? Misdiagnosis and addiction. Trading a lifetime of clear eyed anxiety for a few years of endless off-kilter energy … and then a crash back to reality. A constant hum of anxiety. Either too wound up to stop, or too agitated to start, like a gyroscope spinning around.&lt;/p&gt;
+
+&lt;p&gt;I ‘suffer’ from bipolar disorder, but unfortunately I’d been diagnosed with ADHD and medicated with stimulants. Which I liked. &lt;span class=&quot;coming-soon&quot;&gt;A lot.&lt;/span&gt; Over the course of several years the side-effects got worse and worse, and I was less and less able to see the issues with my own behavior and my own thinking. In my mind the agitation and sleeplessness were a small price to pay for how much better I felt and how much more productive I was. Even if that productivity was mostly in my own head.&lt;/p&gt;
+
+&lt;p&gt;Getting cleaned up and back on track meant making a sustained effort  at confronting reality and turning away from the illusions I’d built up around myself. Its amazing how deep I’d buried the shame of repeated failure, the embarassment at erratic behavior, the confusion, the sense of inevitability of it all. Things seemed pretty hopeless. They really did. Until they didn’t.&lt;/p&gt;
+
+&lt;p&gt;Bottoming out happens slowly then suddenly, and getting better is the same. It wasn’t all at once, and there wasn’t anything dramatic, but the downward spiral reversed its course. Slowly, one step at a time. It goes a little something like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Get out of bed. Go to the doctor. Eat. Sleep. Repeat.&lt;/li&gt;
+  &lt;li&gt;Get out of bed. Take your pills. Go to the gym. Eat. Sleep. Repeat.&lt;/li&gt;
+  &lt;li&gt;Get out of bed. Take your pills. Go to the gym. Spend time with family. Eat. Sleep. Repeat.&lt;/li&gt;
+  &lt;li&gt;Get out of bed. Take your pills. Fire up Xcode. Go to the gym. Spend time with family. Eat. Sleep. Repeat.&lt;/li&gt;
+  &lt;li&gt;Get out of bed. Realize you’re living a normal life. &lt;span class=&quot;coming-soon&quot;&gt;&lt;em&gt;Pray that it continues to repeat.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Physically, mentally, spiritually, I don’t feel at all like the same person I was a couple years ago. Which is a little scary, as theres always the chance of backsliding. But somehow, this time I think its different. I’ve found that physical fitness and mental exercise in the form of meditation and mindfulness practices have worked wonders on my mood and thinking. The medication and therapy can get you to OK, but beyond that took some more work.&lt;/p&gt;
+
+&lt;p&gt;Of course I wouldn’t be writing any of this if it weren’t for my family and friends who stuck by me at my worst. You know who you are. Thanks, it couldn’t have been easy.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 17 Sep 2015 11:11:34 -0400</pubDate>
+        <link>http://constellation.software/programming/business/life/2015/09/17/slightly-balanced.html</link>
+        <guid isPermaLink="true">http://constellation.software/programming/business/life/2015/09/17/slightly-balanced.html</guid>
+        
+        
+        <category>programming</category>
+        
+        <category>business</category>
+        
+        <category>life</category>
+        
+      </item>
+    
+  </channel>
+</rss>
