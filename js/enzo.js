@@ -2,7 +2,7 @@ function fadeHero(percentage) {
     var hero = document.getElementById("hero");
     hero.style.opacity="0.5";
 }
-s
+
 function scrollAlpha() {
     var object = document.getElementById("hero");
     var screenPosition = object.getBoundingClientRect();
