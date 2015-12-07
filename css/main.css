@@ -162,8 +162,9 @@ pre {
   .app-store-badge img {
     height: 50px; }
 
+/** Constellation Site Specific */
 #hero {
-  padding: 25px; }
+  padding: 10px; }
 
 /**
  * Site header
