@@ -18,7 +18,7 @@ window.onload = function() {
 // pause video on document scroll (stops autoplay once scroll started)
 window.onscroll = function(){
     vid.currentTime = window.pageYOffset/40;
-
+   document.background.opacity = 0.5;
 };
 
 // refresh video frames on interval for smoother playback
