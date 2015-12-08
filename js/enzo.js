@@ -4,10 +4,11 @@ var frame = ""
 window.onload = function() {
     // select video element
     vid = document.getElementById("v0");
-    frame = document.getElementById("hero");
+
     //var vid = $('#v0')[0]; // jquery option
     // pause video on load
-    sizeVid(vid, frame);
+
+    vid.play()
     vid.pause();
 }
 
