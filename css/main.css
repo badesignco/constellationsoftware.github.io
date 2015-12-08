@@ -190,9 +190,16 @@ pre {
   #enzo p, #enzo h1, #enzo h2, #enzo h3, #enzo h4, #enzo h5 {
     color: white; }
   #enzo .page-content {
-    padding-right: 37%; }
+    rmax-width: 66%; }
   #enzo .site-footer {
     padding-right: 37%; }
+  #enzo #v0 {
+    float: right;
+    top: 80px;
+    right: 10px;
+    padding: 10px;
+    width: auto;
+    max-width: 50%; }
 
 /**
  * Site header
