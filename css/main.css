@@ -201,8 +201,9 @@ pre {
     right: 10px;
     padding: 10px;
     height: auto;
-    width: auto;
-    max-width: 33%; }
+    width: 33%;
+    max-width: 33%;
+    z-index: 1000; }
 
 /**
  * Site header
