@@ -172,7 +172,7 @@ pre {
     height: 50px; }
 
 /** Constellation Site Specific */
-#hero {
+.hero {
   float: right;
   top: 80px;
   right: 10px;
