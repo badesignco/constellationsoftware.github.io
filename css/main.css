@@ -173,11 +173,12 @@ pre {
 
 /** Constellation Site Specific */
 #hero {
-  position: fixed;
+  position: absolute;
   top: 80px;
   right: 10px;
   padding: 10px;
   width: auto;
+  height: auto;
   max-width: 33%; }
 
 #enzo {
@@ -196,10 +197,12 @@ pre {
   #enzo #v0 {
     float: right;
     top: 80px;
+    margin-top: 10px;
     right: 10px;
     padding: 10px;
+    height: auto;
     width: auto;
-    max-width: 50%; }
+    max-width: 33%; }
 
 /**
  * Site header

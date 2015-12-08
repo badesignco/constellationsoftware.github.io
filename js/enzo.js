@@ -8,7 +8,8 @@ window.onload = function() {
     //var vid = $('#v0')[0]; // jquery option
     // pause video on load
 
-
+    vid.play()
+    vid.pause();
 }
 
 
@@ -16,7 +17,7 @@ window.onload = function() {
 
 // pause video on document scroll (stops autoplay once scroll started)
 window.onscroll = function(){
-    // vid.currentTime = window.pageYOffset/40;
+    vid.currentTime = window.pageYOffset/40;
 
 };
 
