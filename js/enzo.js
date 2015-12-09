@@ -1,27 +1,23 @@
-var vid = ""
-var frame = ""
 
-window.onload = function() {
-    // select video element
-    vid = document.getElementById("v0");
-    frame = document.getElementById("hero");
-    //var vid = $('#v0')[0]; // jquery option
-    // pause video on load
 
-    vid.play()
-    vid.pause();
+function scrollHero() {
+    var object = document.getElementById("hero");
+    var screenPosition = object.getBoundingClientRect();
+    console.log(screenPosition.top);
+    var amountHidden = Math.max(0, screenPosition.bottom - window.innerHeight);
+    var percentHidden = amountHidden / object.height;
+    object.style.opacity = 1 - percentHidden;
+
+    if (screenPosition.top <= 0) {
+        var tm = screenPosition.top * -1;
+        console.log(tm);
+        object.style.marginTop = tm+"px";
+    }
+    // var bottom_of_window = window.scrollTop() + window.height();
+    // console.log(bottom_of_window);
+    // if(bottom_of_window > bottom_of_object) {
+    //     object.animate({'opacity': '1'}, 500);
+    // }
 }
 
-
-
-
-// pause video on document scroll (stops autoplay once scroll started)
-window.onscroll = function(){
-    vid.currentTime = window.pageYOffset/40;
-   document.background.opacity = 0.5;
-};
-
-// refresh video frames on interval for smoother playback
-setInterval(function(){
-    vid.currentTime = window.pageYOffset/40;
-}, 40);
+window.onscroll = scrollHero;
