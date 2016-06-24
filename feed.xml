@@ -6,9 +6,55 @@
 </description>
     <link>http://constellation.software/</link>
     <atom:link href="http://constellation.software/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Jun 2016 06:52:22 -0400</pubDate>
-    <lastBuildDate>Fri, 24 Jun 2016 06:52:22 -0400</lastBuildDate>
+    <pubDate>Fri, 24 Jun 2016 07:37:29 -0400</pubDate>
+    <lastBuildDate>Fri, 24 Jun 2016 07:37:29 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Launching A Game</title>
+        <description>&lt;p&gt;This morning I launched Generous Portions, my first game for iOS. Not counting various pencil &amp;amp; paper RPGs I’ve had a part in developing or playing over the years, this is the first game I’ve published at all.&lt;/p&gt;
+
+&lt;p&gt;Although its very simple, the experience taught me just how difficult it is to develop an enjoyable game. Managing just one or two basic mechanics in a video game is in many ways harder than developing complex rulesets for use in a pencil and paper RPG session. So much goes into the process! Determining how much of the gane is immediately grokkable, whether or not the primary mechanic provides a suitable amount of ‘fun’ in the form of regular meaningful choices - and maybe trickiest of all: understanding what the player will experience as the appropriate level of challenge.&lt;/p&gt;
+
+&lt;p&gt;In GP, for instance, much of the game itself is, for lack of a better word, noise. SPOILER: The salient variables are very easy to track as long as the player avoids the distraction of trying to watch and predict the actions of all the customers.&lt;/p&gt;
+
+&lt;p&gt;I spent many hours of development time tweaking and adjusting the behavior of the customers. The goal was that each would have an easily distinguishable path and velocity - so that players could anticipate which food tray the customer would be approaching, and plan their refills appropriately.&lt;/p&gt;
+
+&lt;p&gt;This was, simply, too much to ask of the player - and the game! Trying to find the right balance between so many variables felt impossible.&lt;/p&gt;
+
+&lt;p&gt;So I simplified the process: the challenge would no longer be to predict every customer’s movement and react with lightning speed. Instead the game would be one of simple timing: managing to wait long enough for each food tray to produce more than the cost of refilling it.&lt;/p&gt;
+
+&lt;p&gt;Positions and vectors no longer mattered. As a result, players could actually manage to keep track of the salient variables: how much food they had in each tray, how many points they had to spend on refills, and how quickly new customers were being spawned.&lt;/p&gt;
+
+&lt;p&gt;By creating a gradually ramping wavelike spawn-rate, the game’s difficulty could increase over time while still providing a sense of relief in the troughs of the waves.&lt;/p&gt;
+
+&lt;p&gt;Now the challenge, and sense of reward came from lasting longer, beating ones previous time, and getting to the top of the leaderboards.&lt;/p&gt;
+
+&lt;p&gt;Just like an old school arcade game.&lt;/p&gt;
+
+&lt;p&gt;Is it a genious game? Not at all. But its shipped, and I’m both happy to be done with it and curious to see how it will fare on the store.&lt;/p&gt;
+
+&lt;p&gt;And I think I may have been bitten by the game-design bug. Which may be more fun than playing games themselves.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 24 Jun 2016 03:14:10 -0400</pubDate>
+        <link>http://constellation.software/programming/business/life/games/app/store/2016/06/24/launching-a-game.html</link>
+        <guid isPermaLink="true">http://constellation.software/programming/business/life/games/app/store/2016/06/24/launching-a-game.html</guid>
+        
+        
+        <category>programming</category>
+        
+        <category>business</category>
+        
+        <category>life</category>
+        
+        <category>games</category>
+        
+        <category>app</category>
+        
+        <category>store</category>
+        
+      </item>
     
       <item>
         <title>Simple and Focused</title>
